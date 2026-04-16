@@ -38,5 +38,11 @@ https://colab.research.google.com/drive/1QnMgR9Z5LZWKTynnpX20EfpdRNbOuJbE?usp=sh
 ## Outcome
 Learned how to represent data visually and extract meaningful insights.
 
+## Key Learnings
+- Understanding data distributions
+- Importance of visualization in analysis
+- Using Python libraries for real-world datasets
+
 ## Acknowledgement
 This project is part of my Data Science Internship at Prodigy InfoTech.
+
