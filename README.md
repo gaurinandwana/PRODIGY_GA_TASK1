@@ -27,4 +27,43 @@ After Training:
 (more meaningful output)
 
 ## Learning
-This project helped me understand how text generation models work and how fine-tuning improves results.
+This project helped me understand how text generation
+ models work and how fine-tuning improves results.
+
+
+
+# 📊 PRODIGY InfoTech Internship - Task 1
+
+## 📌 Project Title
+Data Visualization using Python
+
+## 🧠 Objective
+To create visualizations (bar charts / histograms) for understanding the distribution of categorical or continuous variables.
+
+## 🛠️ Technologies Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Google Colab
+
+## 📂 Project File
+- PRODIGY_GA_TASK1.ipynb
+
+## 🚀 How to Run
+1. Open the notebook in Google Colab
+2. Run all cells sequentially
+
+## 🔗 Colab Link
+Paste your Colab link here
+
+## 📊 Features
+- Data cleaning and preprocessing
+- Visualization of distributions
+- Insightful graphical representation
+
+## 📈 Outcome
+This project helped in understanding how to visually analyze datasets and extract meaningful insights using Python.
+
+## 🙌 Acknowledgment
+This project is part of my Data Science Internship at Prodigy InfoTech.
