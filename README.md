@@ -32,38 +32,38 @@ This project helped me understand how text generation
 
 
 
-# 📊 PRODIGY InfoTech Internship - Task 1
+# PRODIGY InfoTech Internship - Task 1
 
-## 📌 Project Title
+## Project Title
 Data Visualization using Python
 
-## 🧠 Objective
+## Objective
 To create visualizations (bar charts / histograms) for understanding the distribution of categorical or continuous variables.
 
-## 🛠️ Technologies Used
+## Technologies Used
 - Python
 - Pandas
 - Matplotlib
 - Seaborn
 - Google Colab
 
-## 📂 Project File
+## Project File
 - PRODIGY_GA_TASK1.ipynb
 
-## 🚀 How to Run
+## How to Run
 1. Open the notebook in Google Colab
 2. Run all cells sequentially
 
 ## 🔗 Colab Link
-Paste your Colab link here
+https://colab.research.google.com/drive/1QnMgR9Z5LZWKTynnpX20EfpdRNbOuJbE?usp=sharing
 
-## 📊 Features
+## Features
 - Data cleaning and preprocessing
 - Visualization of distributions
 - Insightful graphical representation
 
-## 📈 Outcome
+## Outcome
 This project helped in understanding how to visually analyze datasets and extract meaningful insights using Python.
 
-## 🙌 Acknowledgment
+## Acknowledgment
 This project is part of my Data Science Internship at Prodigy InfoTech.
