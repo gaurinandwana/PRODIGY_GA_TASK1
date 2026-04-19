@@ -77,5 +77,5 @@ Learned how to represent data visually and extract meaningful insights.
 - Using Python libraries for real-world datasets
 
 ## Acknowledgement
-This project is part of my Data Science Internship at Prodigy InfoTech.
+This project is part of my Generative Ai Internship at Prodigy InfoTech.
 
